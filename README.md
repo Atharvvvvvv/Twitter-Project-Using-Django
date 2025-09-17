@@ -1,11 +1,11 @@
 This is for editing the tweet
-<img width="1919" height="1038" alt="image" src="https://github.com/user-attachments/assets/a10c90e4-6224-44fd-ac3c-79ef461ce8ef" />
+<img width="1919" height="1038" alt="Screenshot 2025-09-17 205925" src="https://github.com/user-attachments/assets/f18c30a9-4b54-473e-a6a0-93138ce33eb5" />
 
 This is for Registering a new user 
-<img width="1919" height="993" alt="image" src="https://github.com/user-attachments/assets/60e8d038-1839-4de2-9056-216146653b55" />
+<img width="1919" height="993" alt="Screenshot 2025-09-17 205943" src="https://github.com/user-attachments/assets/d7052886-0d7e-4f55-92cf-e6b3331a24d1" />
 
 This is login page 
-<img width="1919" height="992" alt="image" src="https://github.com/user-attachments/assets/4b1e9b1a-00bf-400b-a061-8b3c56f42d48" />
+<img width="1919" height="992" alt="Screenshot 2025-09-17 205959" src="https://github.com/user-attachments/assets/e842578f-f6ac-49b7-91db-efdf2205d320" />
 
 This is tweet home page
-<img width="1919" height="991" alt="image" src="https://github.com/user-attachments/assets/22c1e1a7-861b-471e-9e19-4c9f3206efe8" />
+<img width="1919" height="991" alt="Screenshot 2025-09-17 210245" src="https://github.com/user-attachments/assets/355f781c-8ee8-4bc9-a64b-e07a57aac14d" />
